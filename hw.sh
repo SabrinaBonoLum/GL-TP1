@@ -1,1 +1,1 @@
-echo -n "projet tout cassé"
+echo -n "projet tout cassé " | md5sum
